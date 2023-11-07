@@ -1,0 +1,31 @@
+
+.TabelaExibeLivros ,table
+{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #000000;
+
+}
+
+.TabelaExibeLivros ,th, td
+{
+    text-align: left;
+    padding: 16px;
+
+}
+
+
+.TabelaExibeLivros ,tr:nth-child(even) {
+    background-color: #ffffffbe;
+  }
+
+  
+
+  
+
+  
+  
+  
+
+
